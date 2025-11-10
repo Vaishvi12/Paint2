@@ -53,11 +53,6 @@ To use the Web Paint application, follow these steps:
 4. Start drawing on the canvas.
 5. Save or export your drawing when you’re done.
 
-## Screenshots
-
-![Web Paint Screenshot](/images/screenshot.png)
-
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
